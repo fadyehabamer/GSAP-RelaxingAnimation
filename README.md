@@ -1,3 +1,3 @@
 # GSAP RELAXING ANIMATION
-### GSAP => Professional-grade JavaScript animation for the modern web
+> GSAP => Professional-grade JavaScript animation for the modern web
 
